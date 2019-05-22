@@ -1,4 +1,4 @@
 # 360imageslideshow
-360 image view for android 
+It was easy for android 
 test hello
 there general kanobi
