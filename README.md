@@ -1,5 +1,5 @@
 # 360imageslideshow
-360 image view for android versions 
+360 image view for android 
 Just used the MOD logic
 Addition 1
 Addition 2
