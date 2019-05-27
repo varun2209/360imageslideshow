@@ -4,8 +4,11 @@ function writeContentToFile(filePath, content){
         if(err) {
             return console.log(err);
         }
-        console.log("The file was saved!");
+        console.log("The file was saved! perfectly");
     });
+    //comment one 
+    //comment two
 }
 
 exports.writeContentToFile = writeContentToFile
+console.log("Last modification log");
